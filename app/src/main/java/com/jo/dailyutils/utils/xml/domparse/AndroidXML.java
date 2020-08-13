@@ -1,4 +1,4 @@
-package com.jo.dailyutils.utils.xmlUtil;
+package com.jo.dailyutils.utils.xml.domparse;
 
 import android.util.Log;
 

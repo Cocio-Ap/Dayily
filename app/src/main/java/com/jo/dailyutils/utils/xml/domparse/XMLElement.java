@@ -1,4 +1,4 @@
-package com.jo.dailyutils.utils.xmlUtil;
+package com.jo.dailyutils.utils.xml.domparse;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -6,9 +6,6 @@ import org.w3c.dom.NodeList;
 
 import java.util.Vector;
 
-/**
- * 基于DOM方式的xml解析，文件存放在【asserts】文件夹下面
- */
 public class XMLElement {
 
 	Element m_element;
